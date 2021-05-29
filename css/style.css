@@ -1415,7 +1415,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
   #header #logo img {
     height: 120px;
-    width: auto;
+    width: 100px;
   }
 
   #intro h2 {
